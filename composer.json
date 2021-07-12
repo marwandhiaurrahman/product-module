@@ -1,0 +1,23 @@
+{
+    "name": "marwan/product",
+    "description": "",
+    "authors": [
+        {
+            "name": "Marwan Dhiaur Rahman",
+            "email": "marwandhiaurrahan@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Product\\": ""
+        }
+    }
+}
